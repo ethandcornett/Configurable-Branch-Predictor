@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/ethancornett/Desktop/Desktop - Ethan’s MacBook Pro/root/School/NCSU/Fall 24/ECE 563/Projects/P2/Code/src/sim_bp"
+relocations:     []
+...
